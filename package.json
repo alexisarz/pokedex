@@ -2,7 +2,7 @@
   "name": "pokedex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://alexisarz.github.io/pokedex",
+  "homepage": "https://alexisarz.github.io/pokedex",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
