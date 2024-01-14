@@ -1,7 +1,7 @@
 <template>
 
     <section class="container text-center">
-        <img src="images/pikachu.png" width="325px" class="img-responsive" />
+        <img src="images/pikachu.webp" width="325px" class="img-responsive" />
         <br>
         <br>
         <br>

@@ -4,7 +4,7 @@
  <div class="modal fade" :id="'exampleModal_' + pokename" tabindex="-1" :aria-labelledby="'exampleModalLabel_' + pokename" aria-hidden="true">
     <div class="modal-dialog">
       <div class="modal-content">
-        <div class="modal-header" style="background-image: url('images/modal_bg.png');">
+        <div class="modal-header" style="background-image: url('images/modal_bg.webp');">
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
           </button>
           <img :src="pokedata.img" class="img-responsive" width="180px"/>

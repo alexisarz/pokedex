@@ -1,7 +1,7 @@
 <template>
     <div>
-        <img v-if="isFav !== true"  src="images/star_dis.png"/>
-        <img v-else-if="isFav == true"  src="images/star_on.png"/>
+        <img v-if="isFav !== true"  src="images/star_dis.webp"/>
+        <img v-else-if="isFav == true"  src="images/star_on.webp"/>
     </div>
 </template>
 

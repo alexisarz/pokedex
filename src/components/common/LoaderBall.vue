@@ -1,6 +1,6 @@
 <template>
 <section class="loader">
-    <img src="images/pokeball.png" :width="imgWidth"/>
+    <img src="images/pokeball.webp" :width="imgWidth"/>
 </section>
 </template>
 
