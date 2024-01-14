@@ -2,10 +2,7 @@
   "name": "pokedex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alexisarz.github.io/pokedex",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
@@ -15,7 +12,6 @@
     "axios": "^1.6.5",
     "bootstrap": "^5.3.2",
     "core-js": "^3.8.3",
-    "gh-pages": "^6.1.1",
     "sweetalert2": "^11.10.3",
     "vue": "^3.2.13",
     "vue-router": "^4.2.5"
