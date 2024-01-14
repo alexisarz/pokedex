@@ -1,24 +1,12 @@
-# pokedex
+Sitio en línea https://pokedexsite.000webhostapp.com/  
+** <b>De todas formas se recomienda la descarga y visualización con servidor local para carga de imágenes en landings y loaders de manera óptima</b> **
 
-## Project setup
-```
-npm install
-```
+Tecnologías utilizadas en el proyecto:
+- bootstrap
+- vue-router
+- font-awesome
+- axios
+- sweetalert2
+- imgs formato webp para optimización de carga
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+En este proyecto no se realizaron implementaciones con Vuex o manejo de estado y flujo similares a reducers.
