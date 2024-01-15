@@ -7,6 +7,7 @@ Tecnologías utilizadas en el proyecto:
 - font-awesome
 - axios
 - sweetalert2
+- postman
 - imgs formato webp para optimización de carga
 
 En este proyecto no se realizaron implementaciones con Vuex o manejo de estado y flujo similares a reducers.
